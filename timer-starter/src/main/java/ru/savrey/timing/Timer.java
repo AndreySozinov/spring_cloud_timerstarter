@@ -1,4 +1,4 @@
-package ru.savrey;
+package ru.savrey.timing;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

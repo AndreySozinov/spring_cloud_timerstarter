@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import ru.savrey.BookProvider;
 import ru.savrey.ReaderProvider;
-import ru.savrey.Timer;
+import ru.savrey.timing.Timer;
 
 import java.time.ZoneId;
 import java.util.*;
